@@ -1,5 +1,5 @@
 ![State](https://img.shields.io/badge/State-On_Date-green)
-![Status](https://img.shields.io/badge/Status-Draft-orange)
+![Status](https://img.shields.io/badge/Status-Release-green)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
 
 # Vitrine de mes capacités SQL/Python dans un contexte bancaire 💳
@@ -10,7 +10,7 @@
 
 ##
 ## A propos du projet 
->[IMPORTANT]\
+>[!IMPORTANT]\
 >Ce repo est un projet-vitrine qui utilise SQL, Python et Jupyter Notebooks dans une simulation bancaire. L'objectif principal est d'analyser les mouvements du compte afin de detecter des activités frauduleuses et en générer des statistiques. 
 
 ## Fonctionnalités 💎
