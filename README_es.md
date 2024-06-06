@@ -9,7 +9,7 @@
 </p>
 
 ## Visión General 
->[IMPORTANT]\
+>[!IMPORTANT]\
 >Este repositorio contiene un proyecto de demostración que utiliza SQL, Python y Jupyter Notebooks para simular una base de datos bancaria. El objetivo principal es analizar los movimientos de las cuentas para detectar actividades fraudulentas y generar estadísticas relacionadas con los incidentes de fraude.
 
 ## Características 💎
