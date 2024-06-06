@@ -1,0 +1,32 @@
+name: Check README Files
+
+on: [push, pull_request]
+
+jobs:
+  check-readmes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Check if README files exist
+        run: |
+          ls README.md README_fr.md README_es.md
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+          with:
+            python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas sqlite3 jupyter
+
+      - name: Create and populate database
+        run: |
+          python scripts/create_database.py
+
+      - name: Run Jupyter Notebook
+        run: |
+          jupyter nbconvert --execute --inplace notebooks/fraud_detection.ipynb
