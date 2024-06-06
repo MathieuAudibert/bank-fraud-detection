@@ -1,3 +1,7 @@
+![State](https://img.shields.io/badge/State-On_Date-green)
+![Status](https://img.shields.io/badge/Status-Draft-orange)
+![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
+
 # Vitrine de mes capacités SQL/Python dans un contexte bancaire 💳
 <p align='center'>
     <a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" title="GB" alt="GB" width="70" height="50"/></a> 

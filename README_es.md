@@ -1,5 +1,8 @@
-# Detección de Fraude Bancario 💳
+![State](https://img.shields.io/badge/State-On_Date-green)
+![Status](https://img.shields.io/badge/Status-Draft-orange)
+![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
 
+# Detección de Fraude Bancario 💳
 <p align="center">
     <a href="README.md">🇬🇧</a>
     <a href="README_fr.md">🇫🇷</a>

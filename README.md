@@ -1,3 +1,8 @@
+![State](https://img.shields.io/badge/State-On_Date-green)
+![Status](https://img.shields.io/badge/Status-Draft-orange)
+![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
+
+
 # Showcase of my SQL/Python abilities in a realistic bank context 💳
 <p align='center'>
     <a href="README_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" title="FR" alt="FR" width="70" height="50"/></a> 
