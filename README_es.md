@@ -5,10 +5,9 @@
 # Detección de Fraude Bancario 💳
 
 <p align='center'>
-    <a href="README.md"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" title="GB" alt="GB" ](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" title="FR" alt="FR")width="70" height="50"/></a> 
+    <a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" title="GB" alt="GB" width="70" height="50"/></a> 
     <a href="README_es.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" title="ES" alt="ES" width="70" height="50"/></a> 
 </p>
-
 ## Visión General 
 >[!IMPORTANT]\
 >Este repositorio contiene un proyecto de demostración que utiliza SQL, Python y Jupyter Notebooks para simular una base de datos bancaria. El objetivo principal es analizar los movimientos de las cuentas para detectar actividades fraudulentas y generar estadísticas relacionadas con los incidentes de fraude.
