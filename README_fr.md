@@ -37,7 +37,7 @@
 ### Installation
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/yourusername/bank-fraud-detection.git
+    git clone https://github.com/MathieuAudibert/bank-fraud-detection.git
     cd bank-fraud-detection
     ```
 
@@ -61,7 +61,7 @@
 
 2. Exécutez les scripts Python dans le répertoire `scripts/` pour le traitement et l'analyse automatisés des données :
     ```bash
-    python scripts/analyze_fraud.py
+    python scripts/fraud_detection.py
     ```
 
 ### Automatisation avec GitHub Actions
