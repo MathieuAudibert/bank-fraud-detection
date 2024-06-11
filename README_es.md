@@ -3,9 +3,10 @@
 ![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
 
 # Detección de Fraude Bancario 💳
-<p align="center">
-    <a href="README.md">🇬🇧</a>
-    <a href="README_fr.md">🇫🇷</a>
+
+<p align='center'>
+    <a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" title="GB" alt="GB" width="70" height="50"/></a> 
+    <a href="README_es.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" title="ES" alt="ES" width="70" height="50"/></a> 
 </p>
 
 ## Visión General 
