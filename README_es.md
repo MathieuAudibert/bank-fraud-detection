@@ -5,7 +5,7 @@
 # Detección de Fraude Bancario 💳
 
 <p align='center'>
-   <a href="README_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" title="FR" alt="FR" width="70" height="50"/></a> > 
+   <a href="README_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" title="FR" alt="FR" width="70" height="50"/></a>  
     <a href="README_es.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" title="ES" alt="ES" width="70" height="50"/></a> 
 </p>
 ## Visión General 
