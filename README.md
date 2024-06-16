@@ -1,5 +1,5 @@
 ![State](https://img.shields.io/badge/State-On_Date-green)
-![Status](https://img.shields.io/badge/Status-Draft-orange)
+![Status](https://img.shields.io/badge/Status-Release-green)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
 
 
@@ -11,7 +11,7 @@
 
 ##
 ## About the project 
->[IMPORTANT]\
+>[!IMPORTANT]\
 >This repository contains a showcase project that uses SQL, Python and Jupyter Notebooks to simulate a banking database. The primary objective is to analyze account movements to detect fraudulent activities and generate statistics related to fraud incidents.
 
 ## Features 💎
@@ -38,7 +38,7 @@
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/bank-fraud-detection.git
+    git clone https://github.com/MathieuAudibert/bank-fraud-detection.git
     cd bank-fraud-detection
     ```
 
@@ -61,7 +61,7 @@
 
 2. Run the Python scripts in the `scripts/` directory for automated data processing and analysis:
     ```bash
-    python scripts/analyze_fraud.py
+    python scripts/fraud_detection.py
     ```
 
 ### Automation with GitHub Actions

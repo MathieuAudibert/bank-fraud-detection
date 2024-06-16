@@ -1,15 +1,16 @@
 ![State](https://img.shields.io/badge/State-On_Date-green)
-![Status](https://img.shields.io/badge/Status-Draft-orange)
+![Status](https://img.shields.io/badge/Status-Release-green)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-Unverified_%E2%9D%8C-red)
 
 # Detección de Fraude Bancario 💳
-<p align="center">
-    <a href="README.md">🇬🇧</a>
-    <a href="README_fr.md">🇫🇷</a>
+
+<p align='center'>
+   <a href="README_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" title="FR" alt="FR" width="70" height="50"/></a>  
+    <a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/2560px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" title="GB" alt="GB" width="70" height="50"/></a>  
 </p>
 
 ## Visión General 
->[IMPORTANT]\
+>[!IMPORTANT]\
 >Este repositorio contiene un proyecto de demostración que utiliza SQL, Python y Jupyter Notebooks para simular una base de datos bancaria. El objetivo principal es analizar los movimientos de las cuentas para detectar actividades fraudulentas y generar estadísticas relacionadas con los incidentes de fraude.
 
 ## Características 💎
@@ -36,7 +37,7 @@
 ### Instalación
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/yourusername/bank-fraud-detection.git
+    git clone https://github.com/MathieuAudibert/bank-fraud-detection.git
     cd bank-fraud-detection
     ```
 
@@ -60,7 +61,7 @@
 
 2. Ejecuta los scripts de Python en el directorio `scripts/` para el procesamiento y análisis automatizado de datos:
     ```bash
-    python scripts/analyze_fraud.py
+    python scripts/fraud_detection.py
     ```
 
 ### Automatización con GitHub Actions
